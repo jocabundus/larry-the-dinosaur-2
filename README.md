@@ -1,4 +1,4 @@
-# Larry the Dinosaur 2 (2020) - Game Guide
+# Larry the Dinosaur 2 (2022) - Game Guide
 `W,A,S,D` can be substitued for arrow keys.
 
 1. Movement
